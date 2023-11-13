@@ -8,4 +8,4 @@ run `npm install`
 
 run `npm start`
 
-In another terminal, run `npm run build`
+In another terminal, run `npm run watch`
